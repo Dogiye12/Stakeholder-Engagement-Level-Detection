@@ -76,4 +76,4 @@ communication_freq,meeting_attendance,feedback_quality,responsiveness
 ---
 
 ### 👨‍💻 Author
-Developed by [Geosoft Global Innovation Ltd.](https://github.com/Akajiaku1) | Powered by synthetic ML and stakeholder science.
+Developed by [Amos Meremu Dogiye](https://github.com/Dogiye12/) | Powered by synthetic ML and stakeholder science.
